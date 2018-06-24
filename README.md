@@ -1,21 +1,9 @@
 # vue-scan-demo
 
-> A Vue.js project
+### vue基于H5+扫码demo演示
 
-## Build Setup
+### 如何使用
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+1.Clone [vue-scan-demo](https://github.com/wkl007/vue-scan-demo.git),然后终端进入项目根目录。
+2.打开Hbuilder，新建项目，将目录指向 /dist ，然后右键转换成移动App,真机usb连接运行
+3.真机依次点击1、2、3、4按钮查看演示效果
