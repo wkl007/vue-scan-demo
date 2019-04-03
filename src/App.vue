@@ -4,13 +4,7 @@
   </div>
 </template>
 
-<script>
-  export default {
-    name: 'App'
-  }
-</script>
-
-<style>
+<style lang="less">
   * {
     margin: 0;
     padding: 0;
