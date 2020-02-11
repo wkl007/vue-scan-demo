@@ -1,7 +1,7 @@
 {
     "@platforms": ["android", "iPhone", "iPad"],
     "id" : "",/*应用的标识*/
-    "name" : "test",/*应用名称，程序桌面图标名称*/
+    "name" : "vue-scan-demo",/*应用名称，程序桌面图标名称*/
     "version": {
         "name": "1.0",/*应用版本名称*/
         "code": ""
@@ -68,7 +68,7 @@
         "Storage": {
             "description": "管理应用本地数据"
         },
-        
+
         "Uploader": {
             "description": "管理文件上传任务"
         },
